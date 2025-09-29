@@ -5,7 +5,7 @@ class Student:
         self.year = year
         self.enroll = enroll
 
-        return {age,name,year,enroll}
+        print(age,name)
         
 
 govind = Student('govind',18,2025,555555)
