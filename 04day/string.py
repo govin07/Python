@@ -4,8 +4,8 @@ def square_find(x):
      return z
 
 
-number = input("enter any number ")
-hello = square_find(number)
+# number = input("enter any number ")
+hello = square_find()
 print(hello)
 
 

@@ -1,5 +1,8 @@
 print('hello')
 
+city = "indore"
+country = "india"
+
 str = ['A','B']
 obj = {'A':"1", 'B': "2"}
 
