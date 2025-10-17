@@ -1,0 +1,1 @@
+print("india","pakistan","shrilanka","nepla",sep="-")
