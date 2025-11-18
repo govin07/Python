@@ -67,3 +67,5 @@ class Atm:
 
 sbi = Atm()
 sbi.deposit()
+sbi.check_balance()
+sbi.withdraw()
