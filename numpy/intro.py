@@ -16,3 +16,6 @@ print(one)
 lin = np.linspace(-10,10,10)
 print(lin)
 print("hello")
+print("numpy")
+
+np.arange(1,10)
