@@ -72,4 +72,7 @@ toss  = ipl['TossWinner'] == ipl['WinningTeam']
 
 # print(ipl[toss])
 
+spl = movies['genres'].str.split('|').apply(lambda x:'Action' in x)
+rat = movies['imdb_rating'] > 7.5
+print(movies[spl & rat])
 
